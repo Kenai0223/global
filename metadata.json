@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nexatech Global Software Solutions",
+  "description": "Nexatech - Your Partner in Global Software Solutions. From Singapore to the World.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
